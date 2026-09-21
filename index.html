@@ -16,7 +16,7 @@
 <p class="eyebrow">FULL-STACK DEVELOPER · BUILDER · HACKATHON ENTHUSIAST</p>
 <h1>Building ideas into <em>useful digital experiences.</em></h1>
 <p class="lead">I'm Jatin Sharma, an aspiring Full-Stack Developer focused on practical, user-centric web solutions and learning through real-world projects, hackathons and collaboration.</p>
-<div class="actions"><a class="btn main" href="#projects">Explore Projects ↗</a><a class="btn" href="https://github.com/Wertegved" target="_blank" rel="noopener">GitHub ↗</a></div>
+<div class="actions"><a class="btn main" href="#projects">Explore Projects ↗</a><a class="btn" href="https://github.com/Wertegved" target="_blank" rel="noopener">GitHub ↗</a><button class="btn btn-resume" id="resumeButton" type="button" aria-haspopup="dialog" aria-controls="resumeModal">View Resume</button></div>
 
 </div><div class="terminal"><div class="dots">● ● ● <span>jatin@portfolio ~</span></div><pre><b>$</b> whoami
 <span>full-stack-developer</span>
@@ -51,5 +51,17 @@
 <section class="contact" id="contact"><p class="eyebrow">05 / LET'S CONNECT</p><h2>Have an idea worth <em>building?</em></h2><p>Open to internship opportunities, collaborative projects, hackathons and learning-driven development teams.</p><div class="actions"><a class="btn contact-linkedin" href="https://www.linkedin.com/in/jatin-sharma-ab464136a" target="_blank" rel="noopener">LinkedIn ↗</a></div></section>
 </main>
 <footer><span>© <span id="year"></span> Jatin Sharma</span><span>Built with curiosity & code.</span></footer>
+<div class="modal-overlay" id="resumeModal" aria-hidden="true">
+  <div class="modal-content" role="dialog" aria-modal="true" aria-labelledby="resumeModalTitle" tabindex="-1" onclick="event.stopPropagation()">
+    <div class="modal-header">
+      <h3 id="resumeModalTitle">Jatin Sharma — Resume</h3>
+      <div class="modal-actions">
+        <a class="download-btn" href="./assets/Resume_2.pdf" download="Resume_2.pdf" target="_blank" rel="noopener">Download</a>
+        <button class="close-btn" type="button" id="closeResumeModal" aria-label="Close resume">×</button>
+      </div>
+    </div>
+    <iframe src="./assets/Resume_2.pdf" title="Jatin Sharma Resume" loading="lazy" class="resume-iframe"></iframe>
+  </div>
+</div>
 <script src="script.js"></script>
 </body></html>
