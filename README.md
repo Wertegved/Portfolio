@@ -14,5 +14,4 @@ Built with **HTML, CSS and JavaScript**, with a focus on clean UI, responsive de
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/jatin-sharma-ab464136a)
-[GitHub](https://github.com/Wertegved)
+[LinkedIn](https://www.linkedin.com/in/jatin-sharma-ab464136a) • [GitHub](https://github.com/Wertegved)
