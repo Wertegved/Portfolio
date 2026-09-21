@@ -1,20 +1,18 @@
-# Jatin Sharma — Personal Profile Website
+# Jatin Sharma — Developer Portfolio
 
-Static portfolio website prepared for the internship task.
+Personal portfolio of an aspiring Full-Stack Developer focused on building practical, user-focused web applications through projects, hackathons, and collaboration.
 
-## Deploy on Vercel
-1. Upload this folder to GitHub.
-2. Import the repository into Vercel.
-3. Framework Preset: **Other**.
-4. Build Command: leave empty.
-5. Output Directory: leave empty (or `.` if Vercel asks).
-6. Deploy.
+Built with **HTML, CSS and JavaScript**, with a focus on clean UI, responsive design, and functional digital experiences.
 
-No backend or environment variables are required.
+## Highlights
 
-## Main links
-- GitHub: https://github.com/Wertegved
-- LinkedIn: https://www.linkedin.com/in/jatin-sharma-ab464136a
-- NGO Connect: https://github.com/jayssSmm/NGO_Connect/tree/jatin
-- NyayaSetu: https://github.com/Wertegved/NyayaSetu
-- Zombie Sandbox — Online: https://github.com/ciudadano-lab/choice_matters/tree/samman
+- Selected projects and development work
+- Technical skills and experience
+- Achievements and hackathon involvement
+- Integrated resume viewer and download
+- Responsive portfolio experience
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/jatin-sharma-ab464136a)
+[GitHub](https://github.com/Wertegved)
